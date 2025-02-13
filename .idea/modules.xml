@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/GolfIT.iml" filepath="$PROJECT_DIR$/.idea/GolfIT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GolfIT_WebApp/GolfIT_WebApp.iml" filepath="$PROJECT_DIR$/GolfIT_WebApp/GolfIT_WebApp.iml" />
     </modules>
   </component>
 </project>
